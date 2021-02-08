@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+whois_output_7.csv
+whois_output.csv
+Malicious Domain Detection Using Machine Learning.pdf
+instructions.txt
+run_whois_4_ips.py
+whois_4_ips.py
